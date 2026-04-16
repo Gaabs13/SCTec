@@ -19,3 +19,9 @@ A ideia é simples: *documentar o processo.*
 - Componentização;
 - Integração com APIs;
 - Projetos práticos;
+
+###Semana 01###
+
+- Introdução ao curso;
+- Trello;
+- Github;
