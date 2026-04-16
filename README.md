@@ -1,7 +1,6 @@
-# **SC Tec** • Desenvolvedor Front-End React
-## por Breezelab
-
-### Construindo interface, quebrando layout e entendendo o que realmente acontece no navegador.
+<h1 align="center">SC Tech • Front-end Track</h1>
+<h2 align="center">por Breezelab</h2>
+<p align="center"><em>Construindo interface, quebrando layout e entendendo o que realmente acontece no navegador.</em></p>
 
 ## 🧠 **Sobre**
 
