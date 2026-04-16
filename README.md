@@ -5,7 +5,7 @@
 
 <p align="center">Esse repositório reúne as *aulas, práticas e experimentos* da trilha de desenvolvimento Front-End do SCTec.<br>
 Aqui não tem só teoria — <em>tem código, exercícios, e evolução.</em>
-A ideia é simples: <em>documentar o processo.*</em></p>
+A ideia é simples: <br><em>documentar o processo.</em></p>
 
 <p><strong>Conteúdo</strong> 🚀</p>
 
@@ -17,7 +17,7 @@ A ideia é simples: <em>documentar o processo.*</em></p>
 - Integração com APIs;
 - Projetos práticos;
 
-<h2 align="center"> Módulo 01: Fundamentos da Programação com JavaScript</h2>
+<h2 align="center"> Módulo 01: <br>Fundamentos da Programação com JavaScript</h2>
 
 <p><strong>Semana 01</strong>📅</p>
 
