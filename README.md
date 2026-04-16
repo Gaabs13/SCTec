@@ -7,7 +7,7 @@
 Aqui não tem só teoria — <em>tem código, exercícios, e evolução.</em>
 A ideia é simples: <em>documentar o processo.*</em></p>
 
-<p align="center"> 🚀 <strong>Conteúdo</strong></p>
+<p> 🚀 <strong>Conteúdo</strong></p>
 
 - Fundamentos da web (HTML, CSS, JS);
 - Estruturação de páginas;
@@ -19,7 +19,7 @@ A ideia é simples: <em>documentar o processo.*</em></p>
 
 <h2 align="center"> Módulo 01: Fundamentos da Programação com JavaScript</h2>
 
-<p align="center"> 📅 Semana 01</p>
+<p> 📅 <strong>Semana 01</strong></p>
 
 - Introdução ao curso;
 - Trello;
