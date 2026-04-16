@@ -1,4 +1,4 @@
-#**SC Tec** • Front-end Track
+#**SC Tec** • Front-end Track#
 ##por Breezelab
 
 ###Construindo interface, quebrando layout e entendendo o que realmente acontece no navegador.
