@@ -3,7 +3,7 @@
 
 <h2 align="center"> 🧠 <strong>Sobre</strong></h2>
 
-<p align="center">Esse repositório reúne as *aulas, práticas e experimentos* da trilha de desenvolvimento Front-End do SCTec.
+<p align="center">Esse repositório reúne as *aulas, práticas e experimentos* da trilha de desenvolvimento Front-End do SCTec.<br>
 Aqui não tem só teoria — <em>tem código, exercícios, e evolução.</em>
 A ideia é simples: <em>documentar o processo.*</em></p>
 
