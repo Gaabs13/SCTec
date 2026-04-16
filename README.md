@@ -1,16 +1,16 @@
-#**SC Tec** • Front-end Track#
-##por Breezelab
+# **SC Tec** • Desenvolvedor Front-End React
+## por Breezelab
 
-###Construindo interface, quebrando layout e entendendo o que realmente acontece no navegador.
+### Construindo interface, quebrando layout e entendendo o que realmente acontece no navegador.
 
-##🧠 **Sobre**
+## 🧠 **Sobre**
 
 Esse repositório reúne as *aulas, práticas e experimentos* da trilha de desenvolvimento front-end do SC Tec.
 
 Aqui não tem só teoria — *tem código, exercícios, e evolução.*
 A ideia é simples: *documentar o processo.*
 
-##🚀 **Conteúdo**
+## 🚀 **Conteúdo**
 
 - Fundamentos da web (HTML, CSS, JS);
 - Estruturação de páginas;
@@ -20,7 +20,9 @@ A ideia é simples: *documentar o processo.*
 - Integração com APIs;
 - Projetos práticos;
 
-###Semana 01###
+## Módulo 01: Fundamentos da Programação com JavaScript
+
+### 📅 Semana 01
 
 - Introdução ao curso;
 - Trello;
